@@ -11,7 +11,7 @@ def countUnique(input_file, output_file):
                 
                 key = line.split("gcid:")[1].strip()
                 unique_keys.add(key)  
-
+                
     
     if not os.path.exists(output_file):
         open(output_file, 'w').close()
