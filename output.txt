@@ -1,7 +1,8 @@
-Liczba unikalnych g-keys: 5
-Lista unikalnych g-keys:
-281992182192
+Liczba unikalnych gcid: 5
+
+Lista unikalnych gcid:
 281992121212
-281992184838
 281999898897
+281992184838
+281992182192
 281925215215
